@@ -1,0 +1,107 @@
+[
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Motivation",
+    "year": 2005,
+    "source": "Stanford University commencement speech"
+  },
+  {
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln",
+    "category": "Inspiration",
+    "year": 1860,
+    "source": "Unknown"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Positivity",
+    "year": 1904,
+    "source": "Unknown"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "Reflection",
+    "year": 1980,
+    "source": "Song: 'Beautiful Boy (Darling Boy)'"
+  },
+  {
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "Sports",
+    "year": 1983,
+    "source": "Interview"
+  },
+  {
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "Success",
+    "year": 1932,
+    "source": "Letter to his son Eduard"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Optimism",
+    "year": 1933,
+    "source": "First Inaugural Address"
+  },
+  {
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "Change",
+    "year": 1913,
+    "source": "Unknown"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "category": "Wisdom",
+    "year": "Ancient",
+    "source": "Proverb"
+  },
+  {
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "Philosophy",
+    "year": "Ancient",
+    "source": "Plato's 'Apology'"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Perseverance",
+    "year": "Ancient",
+    "source": "Unknown"
+  },
+  {
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius",
+    "category": "Resilience",
+    "year": "Ancient",
+    "source": "Unknown"
+  },
+  {
+    "quote": "The only source of knowledge is experience.",
+    "author": "Albert Einstein",
+    "category": "Knowledge",
+    "year": 1926,
+    "source": "Letter to Michel Besso's family"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "Learning",
+    "year": 1947,
+    "source": "Letter to Carl Seelig"
+  },
+  {
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "Progress",
+    "year": "Ancient",
+    "source": "Tao Te Ching"
+  }
+]
